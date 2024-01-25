@@ -474,6 +474,10 @@
       {
         "netclass": "Default",
         "pattern": "/MOT?_IN?"
+      },
+      {
+        "netclass": "power",
+        "pattern": "VCC"
       }
     ]
   },

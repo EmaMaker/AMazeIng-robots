@@ -6,4 +6,5 @@
   (lib (name "A3901SEJTR-T")(type "KiCad")(uri "/home/emamaker/Projects/AMazeIng-boardgame/robots/hardware/LIB_A3901SEJTR-T/A3901SEJTR-T/KiCad")(options "")(descr ""))
   (lib (name "A6SN-4101")(type "KiCad")(uri "/home/emamaker/Projects/AMazeIng-boardgame/robots/hardware/LIB_A6SN-4101/A6SN-4101/KiCad")(options "")(descr ""))
   (lib (name "A6SN-6101")(type "KiCad")(uri "/home/emamaker/Projects/AMazeIng-boardgame/robots/hardware/LIB_A6SN-6101/A6SN-6101/KiCad")(options "")(descr ""))
+  (lib (name "LED_SMD")(type "KiCad")(uri "/home/emamaker/Projects/AMazeIng-boardgame/robots/hardware/LED_SMD.pretty")(options "")(descr ""))
 )
